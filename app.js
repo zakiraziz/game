@@ -1,5 +1,3 @@
-djdu
-
 
 
 console.clear();
