@@ -1,2 +1,1 @@
-jtot
 game
